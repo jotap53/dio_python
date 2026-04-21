@@ -13,3 +13,6 @@ print(numeros)
 
 pais = ("Brasil",)
 print(pais)
+
+carros = ("gol")
+print(isinstance(carros, tuple))
